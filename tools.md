@@ -8,7 +8,7 @@
 
 | 工具 | 一句话 | 链接 | 收录 |
 |---|---|---|---|
-| | | | |
+| **OpenSquilla** | 开源多模型协同 Agent(5.4k star),按任务难度自动路由便宜/强模型,进群送 $10 API 额度 | [opensquilla.ai](https://www.opensquilla.ai/zh/invite/#how) | 2026-07-06 |
 
 ## AI 写作 / 内容
 
@@ -24,9 +24,17 @@
 
 ## 效率 / 自动化
 
+> 以下多数来自 Kun Chen 的 Agent 工程工作流分享(经 Austin 转发),标了来源以示区分。
+
 | 工具 | 一句话 | 链接 | 收录 |
 |---|---|---|---|
-| | | | |
+| **WezTerm + tmux + Neovim** | 终端驱动 Agent 工程"船只"三件套:高性能终端 + 窗格复用/跨设备保会话 + 高效编辑,维持深度心流。来源:Kun Chen | — | 2026-07-06 |
+| **Open Super Whisper** | 本地语音转录,输入速度比打字快 3 倍。来源:Kun Chen | — | 2026-07-06 |
+| **Lavish**(遵循 AXI 原则) | 可视化规划器,把 AI 规划阶段的"文字墙"转成可审阅/标注的 HTML 原型;比 Claude Design 轻量,场景不同(不是竞品)。来源:Kun Chen | — | 2026-07-06 |
+| **No Mistakes 流水线** | 自动化 PR 处理:对抗性审核 + 端到端测试 + 修 lint,只在高风险改动时才需人审。来源:Kun Chen | — | 2026-07-06 |
+| **GNHF(Good Night, Have Fun)** | 挂机跑长达 8 小时的长任务(找 bug/调优),可设 token 上限。来源:Kun Chen | — | 2026-07-06 |
+| **Treehouse** | 自动管理 git worktree,多智能体独立目录并行工作。来源:Kun Chen | — | 2026-07-06 |
+| **First Mate** | 顶层调度器:接跨项目模糊指令,自动分派多智能体、跑流水线、交付 PR。来源:Kun Chen | — | 2026-07-06 |
 
 ## 其他
 
