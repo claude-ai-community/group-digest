@@ -16,6 +16,7 @@
 
 | 日期 | 主题 | 链接 |
 |---|---|---|
+| 2026-07-07 | Karp/Palantir "AI 主权"生意经拆解、中国哲学夜谈、Claude Design 反向工程提示词开源 | [digests/2026-07-07.md](digests/2026-07-07.md) |
 | 2026-07-06 | Kun Chen 的"船长-船员"Agent 工作流全解析、claude.md 瘦身、OpenSquilla 多模型路由 | [digests/2026-07-06.md](digests/2026-07-06.md) |
 
 ## 怎么运作
