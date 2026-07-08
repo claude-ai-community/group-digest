@@ -11,6 +11,7 @@
 | **OpenSquilla** | 开源多模型协同 Agent(5.4k star),按任务难度自动路由便宜/强模型,进群送 $10 API 额度 | [opensquilla.ai](https://www.opensquilla.ai/zh/invite/#how) | 2026-07-06 |
 | **Grok** | 快速拉齐多方观点的综述式研究,群友用来查各家"人生 alpha"观点(哲学/投资类话题) | — | 2026-07-07 |
 | **Claude Design 反向工程系统提示词** | Anthropic Claude Design 系统提示词被反向工程后 MIT 开源,20 章提示词 + 14 项技能,覆盖内容纪律/美学/无障碍/交互状态,近期针对 Fable 5/Opus 4.7+ 校准 | [GitHub](https://github.com/Trystan-SA/claude-design-system-prompt) | 2026-07-07 |
+| **NotebookLM** | 把 guru 的零散长文/博客碎片丢进去做提炼总结,快速抓核心观点再决定要不要读原文 | — | 2026-07-08 |
 
 ## AI 写作 / 内容
 
