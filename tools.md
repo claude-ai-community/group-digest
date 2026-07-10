@@ -39,6 +39,7 @@
 | **Treehouse** | 自动管理 git worktree,多智能体独立目录并行工作。来源:Kun Chen | — | 2026-07-06 |
 | **First Mate** | 顶层调度器:接跨项目模糊指令,自动分派多智能体、跑流水线、交付 PR。来源:Kun Chen | — | 2026-07-06 |
 | **opsx-superpowers** | Austin 自己的 Agent 工程 workflow 项目,里面的 TDD 思路被认为是"AI 生成代码要不要人审"难题的可能解法 | [GitHub](https://github.com/austinxyz/opsx-superpowers/blob/main/docs/workflow.md) | 2026-07-09 |
+| **vibe-agent** | 开源 Claude Code 平替,体现 Harness 思想:model 可换 + harness 用户可配置可扩展(对比 Claude Code 的 harness 是 Anthropic 封装、用户不可见) | [GitHub](https://github.com/iwisher/vibe-agent) | 2026-07-10 |
 
 ## 其他
 
