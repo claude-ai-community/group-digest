@@ -16,6 +16,7 @@
 
 | 日期 | 主题 | 链接 |
 |---|---|---|
+| 2026-07-09 | "AI 生成代码到底要不要人审"凌晨 3 点大辩论、Bun 11 天重写案例、五步 VibeCoding 合规实践 | [digests/2026-07-09.md](digests/2026-07-09.md) |
 | 2026-07-08 | 中文是不是 AI 新趋势的语言学辩论、Martin Fowler 谈 AI 重塑软件工程、翁荔 Harness Engineering 解读 | [digests/2026-07-08.md](digests/2026-07-08.md) |
 | 2026-07-07 | Karp/Palantir "AI 主权"生意经拆解、中国哲学夜谈、Claude Design 反向工程提示词开源 | [digests/2026-07-07.md](digests/2026-07-07.md) |
 | 2026-07-06 | Kun Chen 的"船长-船员"Agent 工作流全解析、claude.md 瘦身、OpenSquilla 多模型路由 | [digests/2026-07-06.md](digests/2026-07-06.md) |

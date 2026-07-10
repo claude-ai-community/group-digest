@@ -38,6 +38,7 @@
 | **GNHF(Good Night, Have Fun)** | 挂机跑长达 8 小时的长任务(找 bug/调优),可设 token 上限。来源:Kun Chen | — | 2026-07-06 |
 | **Treehouse** | 自动管理 git worktree,多智能体独立目录并行工作。来源:Kun Chen | — | 2026-07-06 |
 | **First Mate** | 顶层调度器:接跨项目模糊指令,自动分派多智能体、跑流水线、交付 PR。来源:Kun Chen | — | 2026-07-06 |
+| **opsx-superpowers** | Austin 自己的 Agent 工程 workflow 项目,里面的 TDD 思路被认为是"AI 生成代码要不要人审"难题的可能解法 | [GitHub](https://github.com/austinxyz/opsx-superpowers/blob/main/docs/workflow.md) | 2026-07-09 |
 
 ## 其他
 
