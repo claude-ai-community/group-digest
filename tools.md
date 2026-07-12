@@ -12,6 +12,7 @@
 | **Grok** | 快速拉齐多方观点的综述式研究,群友用来查各家"人生 alpha"观点(哲学/投资类话题) | — | 2026-07-07 |
 | **Claude Design 反向工程系统提示词** | Anthropic Claude Design 系统提示词被反向工程后 MIT 开源,20 章提示词 + 14 项技能,覆盖内容纪律/美学/无障碍/交互状态,近期针对 Fable 5/Opus 4.7+ 校准 | [GitHub](https://github.com/Trystan-SA/claude-design-system-prompt) | 2026-07-07 |
 | **NotebookLM** | 把 guru 的零散长文/博客碎片丢进去做提炼总结,快速抓核心观点再决定要不要读原文 | — | 2026-07-08 |
+| **Markitdown skill**(Claude 内置,微软提供) | 把 word/PDF 先转成 markdown 再放进 project,比每次用 Claude 内置读取器直接读原始文件更省 token | — | 2026-07-11 |
 
 ## AI 写作 / 内容
 

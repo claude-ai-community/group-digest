@@ -16,6 +16,7 @@
 
 | 日期 | 主题 | 链接 |
 |---|---|---|
+| 2026-07-11 | 用 Harness 框架重构乔哈里视窗、Claude Code 架构拆解(agentic search 赢 RAG)、求是 AI 圆桌工业/医疗闭门交流 | [digests/2026-07-11.md](digests/2026-07-11.md) |
 | 2026-07-10 | Harness 是什么系统性讲透、开源 Claude Code 平替 vibe-agent、CSP 才是 AI 商业化真指标 | [digests/2026-07-10.md](digests/2026-07-10.md) |
 | 2026-07-09 | "AI 生成代码到底要不要人审"凌晨 3 点大辩论、Bun 11 天重写案例、五步 VibeCoding 合规实践 | [digests/2026-07-09.md](digests/2026-07-09.md) |
 | 2026-07-08 | 中文是不是 AI 新趋势的语言学辩论、Martin Fowler 谈 AI 重塑软件工程、翁荔 Harness Engineering 解读 | [digests/2026-07-08.md](digests/2026-07-08.md) |
