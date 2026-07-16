@@ -16,6 +16,7 @@
 
 | 日期 | 主题 | 链接 |
 |---|---|---|
+| 2026-07-16 | 辛顿"AI 已有意识" vs 黄仁勋/Anthropic 的商业立场之争、LeCun 炮轰 AGI 陷阱、求是 AI 圆桌"00 后创业者" | [digests/2026-07-16.md](digests/2026-07-16.md) |
 | 2026-07-14 | "AI 时代的水轮"是什么、哈拉瑞达沃斯演讲 vs Austin"锯齿状前沿"框架硬刚、Anthropic 三连发 | [digests/2026-07-14.md](digests/2026-07-14.md) |
 | 2026-07-12 | 王煜全 2029 年 AI 泡沫预测与"服务平权"、Anthropic vs OpenAI 谁更"脏"、印度外包短多长空判断 | [digests/2026-07-12.md](digests/2026-07-12.md) |
 | 2026-07-11 | 用 Harness 框架重构乔哈里视窗、Claude Code 架构拆解(agentic search 赢 RAG)、求是 AI 圆桌工业/医疗闭门交流 | [digests/2026-07-11.md](digests/2026-07-11.md) |
