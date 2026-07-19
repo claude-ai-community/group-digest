@@ -42,6 +42,7 @@
 | **opsx-superpowers** | Austin 自己的 Agent 工程 workflow 项目,里面的 TDD 思路被认为是"AI 生成代码要不要人审"难题的可能解法 | [GitHub](https://github.com/austinxyz/opsx-superpowers/blob/main/docs/workflow.md) | 2026-07-09 |
 | **vibe-agent** | 开源 Claude Code 平替,体现 Harness 思想:model 可换 + harness 用户可配置可扩展(对比 Claude Code 的 harness 是 Anthropic 封装、用户不可见) | [GitHub](https://github.com/iwisher/vibe-agent) | 2026-07-10 |
 | **Grok Build** | xAI 开源的编程智能体 + 终端界面,源代码可自行编译,完全本地运行,指向本地推理引擎并通过 config.toml 配置 | [xAI 公告](https://x.ai/news/grok-build-open-source) | 2026-07-16 |
+| **fable-the-boss** | multi-agent 架构:fable 做 orchestrator,sonnet 做执行 workers,基于他人代码改进后开源。来源:G | [GitHub](https://github.com/gwang-indoc/fable-the-boss) | 2026-07-18 |
 
 ## 其他
 
