@@ -43,7 +43,10 @@
 
 ## 想进群?
 
-看 [AI 飞轮](https://juejin.cn/post/7657366002276139042) 这篇文章,联系 Austin。
+看 [AI 飞轮](https://juejin.cn/post/7657366002276139042) 这篇文章,扫码关注公众号「老奥杂说」,发消息联系 Austin 进群。
+
+<img src="assets/official-account-qr.jpg" alt="老奥杂说公众号二维码" width="200">
+
 
 ---
 
