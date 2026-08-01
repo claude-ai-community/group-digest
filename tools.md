@@ -43,6 +43,7 @@
 | **vibe-agent** | 开源 Claude Code 平替,体现 Harness 思想:model 可换 + harness 用户可配置可扩展(对比 Claude Code 的 harness 是 Anthropic 封装、用户不可见) | [GitHub](https://github.com/iwisher/vibe-agent) | 2026-07-10 |
 | **Grok Build** | xAI 开源的编程智能体 + 终端界面,源代码可自行编译,完全本地运行,指向本地推理引擎并通过 config.toml 配置 | [xAI 公告](https://x.ai/news/grok-build-open-source) | 2026-07-16 |
 | **fable-the-boss** | multi-agent 架构:fable 做 orchestrator,sonnet 做执行 workers,基于他人代码改进后开源。来源:G | [GitHub](https://github.com/gwang-indoc/fable-the-boss) | 2026-07-18 |
+| **Leader.skill** | 把模糊的人类需求转化为 Agent 可独立执行数小时的目标任务书,基于"目标七问"方法论;推荐用 Claude Fable 5/Kimi K3 规划、GPT-5.6 Sol/GLM-5.2 长程执行。与 Matt Pocock 的 grill-me skill 相似但互补(前者定义目标,后者压力测试方案) | [公众号](https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg) | 2026-08-01 |
 
 ## 其他
 

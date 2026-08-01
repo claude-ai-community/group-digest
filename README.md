@@ -16,6 +16,7 @@
 
 | 日期 | 主题 | 链接 |
 |---|---|---|
+| 2026-08-01 | 模拟电路设计为什么是 AI 化最难啃的一块、编程界"要不要读 AI 代码"四大师之争、翁荔重返 OpenAI 带队 RSI | [digests/2026-08-01.md](digests/2026-08-01.md) |
 | 2026-07-24 | Ralph Loop 大辩论(软件熄灯工厂 vs 代码照样垃圾)、AI 编程安全三层拆解、黄仁勋谈"Harness 工程"、Claude Opus 5 发布 | [digests/2026-07-24.md](digests/2026-07-24.md) |
 | 2026-07-18 | Spec 压缩成三分钟审得动的 SSD 实践、Sonnet 5 vs Opus 4.8 真实成本之争、Kimi K3 开源冲击闭源阵营 | [digests/2026-07-18.md](digests/2026-07-18.md) |
 | 2026-07-16 | 辛顿"AI 已有意识" vs 黄仁勋/Anthropic 的商业立场之争、LeCun 炮轰 AGI 陷阱、求是 AI 圆桌"00 后创业者" | [digests/2026-07-16.md](digests/2026-07-16.md) |
